@@ -21,4 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagr32&show_icons=true&locale=en" alt="sagr32" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagr32&" alt="sagr32" /></p>
-![](https://hit.yhype.me/github/profile?user_id=59427765)
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagr32" alt="sagr32" /></a> </p>

@@ -1,11 +1,9 @@
-
-
 <h1 align="center">Hi 👋, I'm Mohamed Sakr</h1>
 <h3 align="center">A Junior Software Developer from Egypt</h3>
 
 - 🌱 I’m currently learning **Android development with JAVA**
 
-- 👨‍💻 All of my projects are available at [sagr32.github.io](sagr32.github.io)
+- 👨‍💻 All of my projects are available at [https://sagr32.github.io/](https://sagr32.github.io/)
 
 - 📫 How to reach me **sagr32@gmail.com**
 
@@ -23,5 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagr32&show_icons=true&locale=en" alt="sagr32" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagr32&" alt="sagr32" /></p>
-
 ![](https://hit.yhype.me/github/profile?user_id=59427765)

@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Android development with JAVA**
 
-- 👨‍💻 All of my projects are available at [https://sagr32.github.io/](https://sagr32.github.io/)
+- 👨‍💻 All of my projects are available at [https://sagr32.github.io/](https://sagr32.github.io)
 
 - 📫 How to reach me **sagr32@gmail.com**
 

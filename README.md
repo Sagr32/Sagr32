@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sakr</h1>
 <h3 align="center">A Junior Software Developer from Egypt</h3>
 
-- 🌱 I’m currently learning **Android development **
+- 🌱 I’m currently learning **Android development**
 
 - 📫 How to reach me **sagr32@gmail.com**
 

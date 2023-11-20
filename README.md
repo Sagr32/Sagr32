@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mohamed Sakr</h1>
+<h1 align="center">
+Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Mohamed Sakr
+</h1>
+<p align="center">
+    <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Mobile+application+developer+;Native+Android+%7C+Cross+platform;XML+-+Jetpack+Compose+-+Flutter+-+KMM" alt="Typing SVG" /></a>
+
 <h3 align="center">A Junior Software Developer from Egypt</h3>
 
 - 🌱 I’m currently learning **Android development**
